@@ -1,0 +1,7 @@
+streamlit==1.22.0        # For the web app interface
+torch                     # For PyTorch model loading and training
+torchvision               # For image transformations and model architectures
+openai                    # For generating text using the OpenAI API
+transformers              # Hugging Face Transformers library for language models (if using it)
+Pillow                    # For handling image inputs
+requests                  # For making HTTP requests (used in RAG or external API calls)
